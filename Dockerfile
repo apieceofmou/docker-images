@@ -1,1 +1,1 @@
-From gcr.io/broad-cga-sanand-gtex/signatureanalyzer:latest
+From gcr.io/ml-pipeline/persistenceagent:0.1.7
