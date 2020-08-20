@@ -1,1 +1,1 @@
-From gcr.io/broad-cga-sanand-gtex/signatureanalyzer:latest
+From tensorflow/tensorflow:latest-gpu-jupyter
